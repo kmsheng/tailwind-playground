@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "git@github.com:kmsheng/tailwind-playground.git",
   "author": "kmsheng <kmsh3ng@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
 }
